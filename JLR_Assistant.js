@@ -286,7 +286,7 @@ const API_CONFIG_China = {
         IFAS: "https://ifas.prod-chn.jlrmotor.com/ifas/jlr",
         IFOP: "https://ifop.prod-chn.jlrmotor.com/ifop/jlr",
        // IFOA: "https://ifoa.prod-chn.jlrmotor.com"
-        IFOA = "https://ifoa.prod-chn.jlrmotor.com/if9/jlr"
+        IFOA = "https://if9.prod-chn.jlrmotor.com"
     },
     extendUrl: "https://landrover.xiaojilinggui.com"
 };
