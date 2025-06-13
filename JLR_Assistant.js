@@ -280,11 +280,25 @@ class vehicleCache extends StorageBase {
 }
 
 // API Configuration
+//    """China Base URLs"""
+const API_CONFIG_China = {
+    baseUrls: {
+        IFAS: "https://ifas.prod-chn.jlrmotor.com/ifas/jlr",
+        IFOP: "https://ifop.prod-chn.jlrmotor.com/ifop/jlr",
+       // IFOA: "https://ifoa.prod-chn.jlrmotor.com"
+        IFOA = "https://ifoa.prod-chn.jlrmotor.com/if9/jlr"
+    },
+    extendUrl: "https://landrover.xiaojilinggui.com"
+};
+// """Rest Of World Base URLs"""
+
 const API_CONFIG = {
   baseUrls: {
     IFAS: "https://ifas.prod-row.jlrmotor.com/ifas/jlr",
     IFOP: "https://ifop.prod-row.jlrmotor.com/ifop/jlr",
-    IFOA: "https://ifoa.prod-row.jlrmotor.com"
+//    IFOA: "https://ifoa.prod-row.jlrmotor.com"
+    IFOA: "https://if9.prod-row.jlrmotor.com"
+   
   },
   extendUrl: "https://github.com/otofoto/JLRWidgetKitForCar"
 };
