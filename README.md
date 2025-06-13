@@ -3,10 +3,10 @@
     <h1>Jaguar Land Rover Travel Widget</h1>
     <p>An elegant iOS widget for monitoring Jaguar Land Rover vehicle status</p>
     <p>
-        <img src="https://img.shields.io/github/v/release/xuyuanfang/WidgetKitForCar?include_prereleases&style=flat-square" alt="GitHub release (latest by date)"/>
-        <img src="https://img.shields.io/github/downloads/xuyuanfang/WidgetKitForCar/total?style=flat-square" alt="GitHub all releases"/>
+        <img src="https://img.shields.io/github/v/release/otofoto/JLRWidgetKitForCar?include_prereleases&style=flat-square" alt="GitHub release (latest by date)"/>
+        <img src="https://img.shields.io/github/downloads/otofoto/JLRWidgetKitForCar/total?style=flat-square" alt="GitHub all releases"/>
         <img src="https://img.shields.io/badge/platform-iOS%2016.0%2B-blue?style=flat-square" alt="Platform"/>
-        <img src="https://img.shields.io/github/license/xuyuanfang/WidgetKitForCar?style=flat-square" alt="License"/>
+        <img src="https://img.shields.io/github/license/otofoto/JLRWidgetKitForCar?style=flat-square" alt="License"/>
     </p>
 </div>
 
@@ -175,7 +175,7 @@ Thanks to all developers who contributed to this project!
 
 For questions or suggestions, feel free to contact:
 
-- Submit an [Issue](https://github.com/xuyuanfang/WidgetKitForCar/issues)
+- Submit an [Issue](https://github.com/otofoto/JLRWidgetKitForCar/issues)
 - Email [xuyuanfang's email](mailto:xuyuanfang@whu.edu.cn)
 
 ---
