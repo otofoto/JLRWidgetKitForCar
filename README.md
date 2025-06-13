@@ -1,7 +1,7 @@
 <div align="center">
     <img src="assets/logoGold120540.png" alt="Logo" width="220" style="padding-top: 25px;"/>
-    <h1>路虎出行小组件</h1>
-    <p>一个优雅的 iOS 路虎车辆状态监控小组件</p>
+    <h1>Jaguar Land Rover Travel Widget</h1>
+    <p>An elegant iOS widget for monitoring Jaguar Land Rover vehicle status</p>
     <p>
         <img src="https://img.shields.io/github/v/release/xuyuanfang/WidgetKitForCar?include_prereleases&style=flat-square" alt="GitHub release (latest by date)"/>
         <img src="https://img.shields.io/github/downloads/xuyuanfang/WidgetKitForCar/total?style=flat-square" alt="GitHub all releases"/>
@@ -10,46 +10,46 @@
     </p>
 </div>
 
-## ✨ 功能特色
+## ✨ Features
 
-### 🚗 全方位车辆监控
-- **基础信息**
-  - 实时油量和续航里程
-  - 总里程数和保养提醒
-  - 车辆位置信息
+### 🚗 Comprehensive Vehicle Monitoring
+- **Basic Information**
+  - Real-time fuel level and range
+  - Total mileage and maintenance reminders
+  - Vehicle location information
   
-- **安全状态**
-  - 车门锁定状态
-  - 车窗开关状态
-  - 引擎盖/后备箱状态
-  - 四轮胎压监测
+- **Safety Status**
+  - Door lock status
+  - Window open/close status
+  - Hood/trunk status
+  - Tire pressure monitoring for all four wheels
   
-### 🎨 精美视觉体验
-- **丰富的小组件尺寸**
-  - 锁屏小组件（圆形/行内/矩形）
-  - 主屏幕小组件（小号/中号/大号）
+### 🎨 Beautiful Visual Experience
+- **Rich Widget Sizes**
+  - Lock screen widgets (circular/inline/rectangular)
+  - Home screen widgets (small/medium/large)
   
-- **个性化界面**
-  - 支持自定义背景图片
-  - 可调节背景暗度
-  - 智能状态配色
-  - 优雅的信息布局
+- **Personalized Interface**
+  - Custom background images supported
+  - Adjustable background darkness
+  - Intelligent status coloring
+  - Elegant information layout
 
-### ⚡️ 智能化体验
-- **灵活的数据更新**
-  - 自定义更新周期
-  - 智能缓存机制
-  - 支持手动刷新
-  - 显示双重时间戳
+### ⚡️ Intelligent Experience
+- **Flexible Data Updates**
+  - Customizable update intervals
+  - Intelligent caching mechanism
+  - Manual refresh supported
+  - Dual timestamp display
   
-- **多车辆支持**
-  - 支持多车辆管理
-  - 快速切换监控车辆
-  - 独立配置保存
+- **Multi-Vehicle Support**
+  - Manage multiple vehicles
+  - Quickly switch monitored vehicle
+  - Independent configuration saving
 
-## 📱 界面预览
+## 📱 Interface Preview
 
-### 锁屏小组件
+### Lock Screen Widgets
 <div align="center">
     <table>
         <tr>
@@ -72,115 +72,115 @@
     </table>
 </div>
 
-### 主屏幕小组件
+### Home Screen Widgets
 <div align="center">
     <table>
         <tr>
             <td align="center" width="20%">
                 <img src="assets/small.jpg" width="200" alt="small"/>
                 <br>
-                <em>小尺寸小组件</em>
+                <em>Small widget</em>
             </td>
             <td align="center" width="40%">
-                <img src="assets/medium.jpg" width="200" alt="中尺寸小组件"/>
+                <img src="assets/medium.jpg" width="200" alt="Medium widget"/>
                 <br>
-                <em>中尺寸小组件</em>
+                <em>Medium widget</em>
             </td>
             <td align="center" width="40%">
-                <img src="assets/large.jpg" width="200" alt="大尺寸小组件"/>
+                <img src="assets/large.jpg" width="200" alt="Large widget"/>
                 <br>
-                <em>大尺寸小组件</em>
+                <em>Large widget</em>
             </td>
         </tr>
     </table>
-    <p align="center"><em>支持多种尺寸展示不同详细程度的信息</em></p>
+    <p align="center"><em>Supports multiple sizes and displays different levels of detail</em></p>
 </div>
 
-## 🚀 快速开始
+## 🚀 Getting Started
 
-### 系统要求
-- iOS 16.0 或更高版本
+### System Requirements
+- iOS 16.0 or later
 - Scriptable App
-- 路虎 InControl 账号
+- Jaguar Land Rover InControl account
 
-### 安装步骤
-1. 在 App Store 下载并安装 [Scriptable](https://apps.apple.com/app/scriptable/id1405459188)
-2. 下载本项目的最新版本脚本
-3. 将脚本导入到 Scriptable
-4. 运行脚本并按提示配置
-5. 在主屏幕或锁屏添加小组件
+### Installation Steps
+1. Download and install [Scriptable](https://apps.apple.com/app/scriptable/id1405459188) from the App Store
+2. Download the latest script from this project
+3. Import the script into Scriptable
+4. Run the script and follow the prompts to configure
+5. Add the widget to your home or lock screen
 
-### 使用说明
-1. **首次配置**
-   - 登录路虎账号
-   - 选择要监控的车辆
-   - 设置更新周期
+### Usage Instructions
+1. **Initial Setup**
+   - Log in to your Jaguar Land Rover account
+   - Select the vehicle to monitor
+   - Set the update interval
    
-2. **添加小组件**
-   - 长按主屏幕或锁屏
-   - 点击添加小组件
-   - 选择 Scriptable
-   - 选择本脚本
+2. **Add Widget**
+   - Long press on the home or lock screen
+   - Tap to add a widget
+   - Choose Scriptable
+   - Select this script
    
-3. **个性化设置**
-   - 自定义背景图片
-   - 调节背景暗度
-   - 设置更新频率
+3. **Personalized Settings**
+   - Customize background image
+   - Adjust background darkness
+   - Set update frequency
 
-## 🛠 高级配置
+## 🛠 Advanced Configuration
 
-### 更新周期设置
-- 最短支持 30 秒
-- 推荐设置 10 分钟以上
-- 可根据实际需求调整
+### Update Interval Setting
+- Minimum supported: 30 seconds
+- Recommended: 10 minutes or more
+- Adjustable as needed
 
-### 背景图片设置
-- 支持本地图片
-- 支持 iCloud 图片
-- 可调节暗度 0-100%
+### Background Image Setting
+- Supports local images
+- Supports iCloud images
+- Adjustable darkness 0-100%
 
-### 数据缓存管理
-- 自动缓存机制
-- 支持手动清除
-- 智能过期处理
+### Data Cache Management
+- Automatic caching
+- Manual clearing supported
+- Intelligent expiration handling
 
-## 📝 更新日志
+## 📝 Changelog
 
-查看完整的[更新日志](CHANGELOG.md)了解详细的版本变更记录。
+See the full [changelog](CHANGELOG.md) for detailed version history.
 
-## 🤝 贡献指南
+## 🤝 Contribution Guide
 
-我们欢迎所有形式的贡献，无论是新功能、bug 修复还是文档改进。
+All forms of contributions are welcome, whether new features, bug fixes, or documentation improvements.
 
-1. Fork 本仓库
-2. 创建新的功能分支
-3. 提交您的更改
-4. 创建 Pull Request
+1. Fork this repository
+2. Create a new feature branch
+3. Commit your changes
+4. Create a Pull Request
 
-## 📄 开源协议
+## 📄 License
 
-本项目采用 [GPL-3.0](LICENSE) 协议开源。
+This project is open-sourced under the [GPL-3.0](LICENSE) license.
 
-## ⚠️ 免责声明
+## ⚠️ Disclaimer
 
-- 本项目为非官方工具，与捷豹路虎汽车有限公司无关
-- Land Rover、路虎以及其 Logo 均为捷豹路虎汽车有限公司的注册商标
-- 使用本工具时请遵守相关法律法规和用户协议
+- This project is an unofficial tool and is not affiliated with Jaguar Land Rover Ltd.
+- Land Rover, the Land Rover logo, etc. are registered trademarks of Jaguar Land Rover Ltd.
+- Please comply with relevant laws, regulations, and user agreements when using this tool.
 
-## 🙏 致谢
+## 🙏 Acknowledgments
 
-感谢所有为本项目做出贡献的开发者们！
+Thanks to all developers who contributed to this project!
 
-## 📮 联系方式
+## 📮 Contact
 
-如有问题或建议，欢迎通过以下方式联系：
+For questions or suggestions, feel free to contact:
 
-- 提交 [Issue](https://github.com/xuyuanfang/WidgetKitForCar/issues)
-- 发送邮件至 [xuyuanfang's email](mailto:xuyuanfang@whu.edu.cn)
+- Submit an [Issue](https://github.com/xuyuanfang/WidgetKitForCar/issues)
+- Email [xuyuanfang's email](mailto:xuyuanfang@whu.edu.cn)
 
 ---
 
 <div align="center">
-    <p>如果这个项目对您有帮助，欢迎给个 Star ⭐️</p>
+    <p>If this project helps you, feel free to give it a Star ⭐️</p>
     <p>Made with ❤️ by xuyuanfang</p>
 </div>
