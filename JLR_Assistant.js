@@ -510,7 +510,8 @@ class JLRConnectAPI {
 
   static async _authenticate(data) {
     return await Utils.retry(async () => {
-      const url = `${API_CONFIG.baseUrls.IFAS}/tokens/tokensSSO`;
+    //  const url = `${API_CONFIG.baseUrls.IFAS}/tokens/tokensSSO`;
+      const url = `${API_CONFIG.baseUrls.IFAS}/tokens/tokens`;
       log(`Authentication URL: ${url}`);
       const request = new Request(url);
       request.method = "POST";
